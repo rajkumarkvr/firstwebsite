@@ -1,0 +1,59 @@
+a{
+    color: cadetblue;
+    font-size: 23px;
+    font-weight: bold;
+}
+a:hover{
+    color: rgb(254, 160, 45);
+}
+#product-name{
+    font-family:verdana;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top:20px;
+    margin-bottom: 0;
+}
+#product-stock{
+    font-family: arial;
+    margin-top: 15px;
+    font-size: 25px;
+    color: rgb(41, 178, 41);
+    font-weight: bold;
+    margin-bottom: 0;
+}
+#product-delivery{
+    font-family: arial;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.btn{
+font-family: arial;
+    padding: 18px 84px;
+    margin: 10px;
+    border-radius: 25px;
+    border: none;
+    font-size: large;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.1s linear;
+}
+.btn:hover{
+    opacity: 0.9;
+}
+.btn:active{
+    opacity: 0.5;
+}
+.add-btn{
+    background-color:rgb(254, 254, 45) ;
+}
+.buy-btn{
+    background-color: rgb(254, 160, 45);
+}
+
+.back-link{
+    font-family: arial;
+    font-size: 20px;
+    font-weight: normal;
+   
+}
